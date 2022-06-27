@@ -9,7 +9,7 @@ int main()
 	c=a*b;
 	
 	printf("%d",c);
-	
+		printf("%d",c);	printf("%d",c);	printf("%d",c);
 	
 	return 0;
 }
